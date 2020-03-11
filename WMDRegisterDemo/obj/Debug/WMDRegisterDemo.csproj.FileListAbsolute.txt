@@ -1,0 +1,16 @@
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\WMDRegisterDemo.exe.config
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\WMDRegisterDemo.exe
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\WMDRegisterDemo.pdb
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\MySql.Data.dll
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\Renci.SshNet.dll
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\bin\Debug\MySql.Data.xml
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.csprojAssemblyReference.cache
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.Main.resources
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.Properties.Resources.resources
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.csproj.GenerateResource.cache
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.csproj.CopyComplete
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.exe
+C:\Users\Fabiane e Dolvino\source\repos\WMDRegisterDemo\WMDRegisterDemo\obj\Debug\WMDRegisterDemo.pdb
